@@ -19,7 +19,7 @@
     "lint": "tslint src/*.ts",
     "test": "jest --coverage src/*.spec.ts",
     "build": "tsc",
-    "prepublish": "npm run build"
+    "prepare": "npm run build"
   },
   "peerDependencies": {
     "@angular/core": "^6",
