@@ -22,23 +22,23 @@
     "prepare": "npm run build"
   },
   "peerDependencies": {
-    "@angular/core": "^6",
-    "@ngrx/store": "^6"
+    "@angular/core": "^6 || ^7",
+    "@ngrx/store": "^6 || ^7"
   },
   "devDependencies": {
-    "@angular/core": "^6",
-    "@ngrx/store": "^6",
-    "@types/jest": "^23",
-    "jest": "^23",
-    "rxjs": "^6",
+    "@angular/core": "^7.2.4",
+    "@ngrx/store": "^7.2.0",
+    "@types/jest": "^24.0.0",
+    "jest": "^24.1.0",
+    "rxjs": "^6.4.0",
     "ts-jest": "23.10.5",
-    "tslint": "~5.11",
+    "tslint": "~5.12.1",
     "tslint-config-airbnb": "~5.11",
-    "tslint-config-prettier": "~1.17",
-    "tslint-consistent-codestyle": "~1.14",
+    "tslint-config-prettier": "~1.18.0",
+    "tslint-consistent-codestyle": "~1.15.0",
     "tslint-eslint-rules": "~5.4",
     "tslint-microsoft-contrib": "~6.0",
-    "typescript": "~3.2"
+    "typescript": "~3.3.1"
   },
   "jest": {
     "preset": "ts-jest",
