@@ -1,6 +1,6 @@
 {
   "name": "ngrx-loadable",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Add some loading to your state",
   "keywords": [
     "angular",
