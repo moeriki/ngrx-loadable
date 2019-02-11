@@ -9,6 +9,7 @@
     "remote",
     "loading"
   ],
+  "repository": "https://github.com/Moeriki/ngrx-loadable",
   "files": [
     "dist/**"
   ],
